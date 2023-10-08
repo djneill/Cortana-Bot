@@ -4,7 +4,7 @@
 
 <h1 align="center">Cortana Bot</h1>
 
-<p>Take a look at it here 👉 </p>
+<p>Take a look at it here 👉 https://cortana-bot.vercel.app/</p>
 <p>This is using OpenAI's free chatGPT 3.5 turbo API. It does have limitations and will expire by 10/14/23.</p>
 
 <h2 align="center">Tech Used</h2> 
